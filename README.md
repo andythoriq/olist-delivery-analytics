@@ -1,4 +1,4 @@
-# Olist Delivery & Product Quality Dashboard ✨
+# Olist Delivery & Product Quality Dashboard
 
 Proyek analisis data E-Commerce Public Dataset (Olist) untuk menjawab dua pertanyaan bisnis:
 
